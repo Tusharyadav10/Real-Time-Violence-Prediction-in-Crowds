@@ -16,7 +16,7 @@ Traditional surveillance systems rely heavily on manual monitoring, which is err
 
 ## 📄 Project Report & Research Paper
 
-- 📑 [**Full Project Report (PDF)**](https://github.com/Tusharyadav10/Real-Time-Violence-Prediction-in-Crowds.git/ProjectIIIFinalReport.pdf)
+- 📑 [**Full Project Report (PDF)**](https://github.com/Tusharyadav10/Real-Time-Violence-Prediction-in-Crowds/blob/main/Btech_Final_Year_Report.pdf)
 <!-- - 📰 [**Research Paper (PDF)**](https://github.com/Tusharyadav10/Real-Time-Violence-Prediction-in-Crowds.git/ResearchPaper.pdf) -->
 
 ---
